@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CAboutDlg::__unnamed_00b9_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>OtupyachivatelDlg.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAhBAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>OtupyachivatelDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CClipboard" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AICABEAAAAgAAAAAAAAAACAAgAAAAAAAIACAAAAAAAA=</HashCode>
+      <FileName>Clipboard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CConfig" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIGSIIAAB6MACEAgAAABVZUBCwBEAAAAQtgAZkFwEQA=</HashCode>
+      <FileName>Config.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFilePtr" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQgAAAAAAAAAAAAAAAQAAAAAAAEAAAAAAAAAEAAA=</HashCode>
+      <FileName>FilePtr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COtupyachivatelApp" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgBAAAAAAQAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Otupyachivatel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COtupyachivatelDlg" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAChQBVIIlIAKIBAApVAAgIogAACAYQQAZAGEABRAAA=</HashCode>
+      <FileName>OtupyachivatelDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRandomAdder" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAAAAAAAAAAAAAABEBAAAAAAQAAAAQAAAAAABAAAQ=</HashCode>
+      <FileName>RandomAdder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRandomGenerator" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAJAAAEAAAAAAAASAAAgAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>RandomGenerator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CReplacer" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAACAAEAAAAACAAAAAAQAAABAAAAAAABEAAAKAAAAA=</HashCode>
+      <FileName>Replacer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTags" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIQAAAAAAAIIAAAAkAgAIAQAAAFAAAJAAAEhAAACA=</HashCode>
+      <FileName>Tags.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="CReplacerResult" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAACIAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Replacer.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

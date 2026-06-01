@@ -1,0 +1,5 @@
+// Microsoft Visual C++ generated Help ID include file.
+// Used by Otupyachivatel.rc
+//
+#define HIDC_BUTTONOPENFILE             0x806603e8    // IDD_OTUPYACHIVATEL_DIALOG
+#define HIDOK                           0x80660001    // IDD_OTUPYACHIVATEL_DIALOG
