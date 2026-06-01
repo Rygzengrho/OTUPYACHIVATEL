@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\Tags.o
+./debug\Replacer.o
+./debug\RandomGenerator.o
+./debug\RandomAdder.o
+./debug\Config.o
+./debug\toolbarmodeform.o
+./debug\aboutdialog.o
+./debug\moc_mainwindow.o
+./debug\moc_toolbarmodeform.o
+./debug\moc_aboutdialog.o
+./debug\qrc_resource.o
+);

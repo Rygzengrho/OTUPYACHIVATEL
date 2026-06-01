@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\Tags.o
+./release\Replacer.o
+./release\RandomGenerator.o
+./release\RandomAdder.o
+./release\Config.o
+./release\toolbarmodeform.o
+./release\aboutdialog.o
+./release\moc_mainwindow.o
+./release\moc_toolbarmodeform.o
+./release\moc_aboutdialog.o
+./release\qrc_resource.o
+);

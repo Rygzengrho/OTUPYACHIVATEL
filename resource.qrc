@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>UP4K-men.ico</file>
+        <file>UP4K-men Sitting.ico</file>
+        <file>UP4K-men Left.ico</file>
+    </qresource>
+</RCC>
